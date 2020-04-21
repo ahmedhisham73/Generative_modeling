@@ -1,1 +1,1 @@
-# Generative_model_lecture_ITI
+# Generative_model_lec
