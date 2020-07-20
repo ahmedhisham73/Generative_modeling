@@ -1,1 +1,1 @@
-# Generative_model_lec
+# Generative_model_tutorial
